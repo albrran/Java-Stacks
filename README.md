@@ -1,6 +1,6 @@
 # Java Stacks
 
-![book-piles](https://github.com/albrran/Java-Stacks/assets/120284166/b4ccd439-9976-4f02-ac7f-61de8fd44972)
+![book-piles](https://github.com/albrran/Java-Stacks/assets/120284166/e83943d8-9aa8-42e4-8baf-e41bb831a02b)
 
 <body>
     <h2>What is a Stack?</h2>
